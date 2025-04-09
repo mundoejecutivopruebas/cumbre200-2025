@@ -1,0 +1,576 @@
+{
+    "cosas": [
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/02/revista-cosas-1.png",
+            "imagenPerfil": "../assets/images/c.png",
+            "altText": "Revista Cosas",
+            "titulo": "Cosas 95, Febrero 2024",
+            "fecha": "Septiembre 2, 2025",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/cosas_95_febrero_2025"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/10/cosas92.png",
+            "imagenPerfil": "../assets/images/c.png",
+            "altText": "COSAS",
+            "titulo": "Cosas 92, Septiembre 2024",
+            "fecha": "Septiembre 2, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/92_cm_sep_low2"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/08/revista_cosas_portada.png",
+            "imagenPerfil": "../assets/images/c.png",
+            "altText": "COSAS",
+            "titulo": "Revista Cosas 91, Agosto 2024",
+            "fecha": "Agosto 16, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/91_cm_jul-ago_low"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/08/revista_cosas.jpg",
+            "imagenPerfil": "../assets/images/c.png",
+            "altText": "COSAS",
+            "titulo": "Mundo Cosas 090, Junio 2024",
+            "fecha": "Junio 27, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/090_cm_jun_low"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/08/mayocosas.png",
+            "imagenPerfil": "../assets/images/c.png",
+            "altText": "COSAS",
+            "titulo": "Mundo Cosas 89, Mayo 2024",
+            "fecha": "Mayo 20, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/89_cm_may"
+        }
+    ],
+    "only": [
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/04/only03042025.png",
+            "imagenPerfil": "../assets/images/o.png",
+            "altText": "Revista Only",
+            "titulo": "Only Centro Santa Fe 58, Marzo 2025",
+            "fecha": "Marzo 14, 2025",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/only_santa_fe_58_primavera_2025"
+        },
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/02/revista-only.png",
+            "imagenPerfil": "../assets/images/o.png",
+            "altText": "Revista Only",
+            "titulo": "Only Centro Santa Fe 56, Septiembre 2024",
+            "fecha": "Septiembre 19, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/only_invierno_2024"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/09/onlyseptiembre12024.png",
+            "imagenPerfil": "../assets/images/o.png",
+            "altText": "ONLY",
+            "titulo": "Only Centro Santa Fe 56, Septiembre 2024",
+            "fecha": "Septiembre 19, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/only56web"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/08/revista_only.jpg",
+            "imagenPerfil": "../assets/images/o.png",
+            "altText": "ONLY",
+            "titulo": "Only Centro Santa Fe 55, Junio 2024",
+            "fecha": "Junio 17, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/only55_web"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/08/imagen_6.png",
+            "imagenPerfil": "../assets/images/o.png",
+            "altText": "ONLY",
+            "titulo": "Only Centro Santa Fe 54, Marzo 2024",
+            "fecha": "Abril 2, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/only54_web2"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/08/only_portada_antigua.png",
+            "imagenPerfil": "../assets/images/o.png",
+            "altText": "ONLY",
+            "titulo": "Only Centro Santa Fe 53, Diciembre 2023",
+            "fecha": "Diciembre 11, 2023",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/only53_web"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/08/onlys182023.png",
+            "imagenPerfil": "../assets/images/o.png",
+            "altText": "QUALITAS",
+            "titulo": "Only Centro Santa Fe 52, Septiembre 2023",
+            "fecha": "Septiembre 18, 2023",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/only52_baja"
+        }
+    ],
+    "mundo_ejecutivo": [
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/02/mundoejecutivo-1.png",
+            "imagenPerfil": "../assets/images/m.png",
+            "altText": "Mundo Ejecutivo",
+            "titulo": "Mundo Ejecutivo 549, Octubre 2024",
+            "fecha": "Octubre 7, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/mundo_ejecutivo_553_febrero_2025"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/10/mundoejecutivo_alejandro.png",
+            "imagenPerfil": "../assets/images/m.png",
+            "altText": "Mundo Ejecutivo",
+            "titulo": "Mundo Ejecutivo 549, Octubre 2024",
+            "fecha": "Octubre 7, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/549_me_oct_gmsi_alejandrodesfassiaux"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/10/mundoejecutivodonald.png",
+            "imagenPerfil": "../assets/images/m.png",
+            "altText": "Mundo Ejecutivo",
+            "titulo": "Mundo Ejecutivo, Octubre 2024",
+            "fecha": "Octubre 3, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/mundo_ejecutivo_usa_edici_n_especial_alta_"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/10/mundoejecutivo_arnulfo.png",
+            "imagenPerfil": "../assets/images/m.png",
+            "altText": "Mundo Ejecutivo",
+            "titulo": "Mundo Ejecutivo, Septiembre 2024",
+            "fecha": "Septiembre 25, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/mundo_ejecutivo_edomex_sep_2024_web"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/08/me152024.png",
+            "imagenPerfil": "../assets/images/m.png",
+            "altText": "Mundo Ejecutivo",
+            "titulo": "Mundo Ejecutivo EDOMEX 547, Agosto 2024",
+            "fecha": "Agosto 15, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/mundo_ejecutivo_edomex_revisio_n"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/08/revista_mundoejecutivo-1.jpg",
+            "imagenPerfil": "../assets/images/m.png",
+            "altText": "Mundo Ejecutivo",
+            "titulo": "Mundo Ejecutivo 547 Agosto 2024",
+            "fecha": "Agosto 1, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/547_me_ago_adn40"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/08/revista_edomex.jpg",
+            "imagenPerfil": "../assets/images/m.png",
+            "altText": "Mundo Ejecutivo",
+            "titulo": "Mundo Ejecutivo EDOMEX 546, Julio 2024",
+            "fecha": "Julio 19, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/546_me_edomex_jul_mauriciojessurun"
+        }
+    ],
+    "mujer_ejecutiva": [
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/03/mujerejecutivacumbre2002025.png",
+            "imagenPerfil": "../assets/images/me.png",
+            "altText": "Mujer Ejecutiva",
+            "titulo": "Mujer Ejecutiva 226 Marzo 2025",
+            "fecha": "Marzo 27, 2025",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/mujer_ejecutiva_edici_n_especial_226_marzo_2025_"
+        },
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/03/mundo-me.png",
+            "imagenPerfil": "../assets/images/me.png",
+            "altText": "Mujer Ejecutiva",
+            "titulo": "Mujer Ejecutiva 225 Febrero 2025",
+            "fecha": "Febrero 18, 2025",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/mujer_ejecutiva_225_febrero_2025"
+        },
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/02/mujerejecutiva-1.png",
+            "imagenPerfil": "../assets/images/me.png",
+            "altText": "Mujer Ejecutiva",
+            "titulo": "Mujer Ejecutiva 222, Septiembre 2024",
+            "fecha": "Septiembre 3, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/224_mue_dic-ene_distritodemujeres"
+        },
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/03/memariajesus.png",
+            "imagenPerfil": "../assets/images/me.png",
+            "altText": "Mujer Ejecutiva",
+            "titulo": "Mujer Ejecutiva 223, Octubre 2024",
+            "fecha": "Octubre 25, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/223_mue_oct-nov_mariajesuslopezsolas_iberia"
+        },
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/03/memariajoseortega.png",
+            "imagenPerfil": "../assets/images/me.png",
+            "altText": "Mujer Ejecutiva",
+            "titulo": "Mujer Ejecutiva 222, Septiembre 2024",
+            "fecha": "Septiembre 3, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/222_mue_ago-sep_mariajoseortega"
+        },
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/03/me-22.png",
+            "imagenPerfil": "../assets/images/me.png",
+            "altText": "Mujer Ejecutiva",
+            "titulo": "Mujer Ejecutiva 222, Agosto 2024",
+            "fecha": "Junio 17, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/222_mue_ago-sep_kamalaharris"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/08/revista_mujerejecutiva.jpg",
+            "imagenPerfil": "../assets/images/me.png",
+            "altText": "Mujer Ejecutiva",
+            "titulo": "Mujer Ejecutiva 221 Junio 2024",
+            "fecha": "Junio 19, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/221_mue_jun-jul_claudiacontreras"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/08/mujerejecutiva272024.png",
+            "imagenPerfil": "../assets/images/me.png",
+            "altText": "Mujer Ejecutiva",
+            "titulo": "Mujer Ejecutiva 220 Mayo 2024",
+            "fecha": "Mayo 27, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/220_mue_abr-may"
+        }
+    ],
+    "colonos": [
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/03/polanco2025-1.png",
+            "imagenPerfil": "../assets/images/co_polanco.png",
+            "altText": "Colonos Polanco",
+            "titulo": "Colonos Polanco 116, Marzo 2025",
+            "fecha": "Marzo 10, 2025",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/colonos_polanco_116_marzo_2025"
+        },
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/03/satelite2025-1.png",
+            "imagenPerfil": "../assets/images/co_satelite.png",
+            "altText": "Colonos Satélite",
+            "titulo": "Colonos Satélite 95, Marzo 2025",
+            "fecha": "Marzo 10, 2025",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/colonos_sat_lite_95_marzo_2025"
+        },
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/03/interlomas2025-1.png",
+            "imagenPerfil": "../assets/images/co_interlomas.png",
+            "altText": "Colonos Interlomas",
+            "titulo": "Colonos Interlomas 117, Marzo 2025",
+            "fecha": "Marzo 11, 2025",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/colonos_interlomas_117_marzo_2025"
+        },
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/03/colonossantafe2025-1.png",
+            "imagenPerfil": "../assets/images/co_santa_fe.png",
+            "altText": "Colonos Santa fe",
+            "titulo": "Colonos Santa Fé 169, Marzo 2025",
+            "fecha": "Marzo 11, 2025",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/colonos_santa_fe_169_marzo_2025"
+        },
+
+
+
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/02/colonos-santafe-1.png",
+            "imagenPerfil": "../assets/images/co_santa_fe.png",
+            "altText": "Colonos Santa fe",
+            "titulo": "Colonos Santa Fé 163, Septiembre 20254",
+            "fecha": "Septiembre 13, 2024",
+            "enlace_revista": "http://issuu.com/mundoeje/docs/colonos_santa_fe_febrero_2025"
+        },
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/02/colonos-satelite-1.png",
+            "imagenPerfil": "../assets/images/co_satelite.png",
+            "altText": "Colonos Satelite",
+            "titulo": "Colonos Santa Fé 163, Septiembre 2025",
+            "fecha": "Septiembre 13, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/colonos_sat_lite_94_febrero_2025"
+        },
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/02/colonos-interlomas-1.png",
+            "imagenPerfil": "../assets/images/co_interlomas.png",
+            "altText": "Colonos Interlomas",
+            "titulo": "Colonos Santa Fé 163, Septiembre 2025",
+            "fecha": "Septiembre 13, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/colonos_interlomas_febrero_2025"
+        },
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/02/colonos-polanco-1.png",
+            "imagenPerfil": "../assets/images/co_polanco.png",
+            "altText": "Colonos Polanco",
+            "titulo": "Colonos Santa Fé 163, Septiembre 2025",
+            "fecha": "Septiembre 13, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/colonos_polanco_115_febrero_2025"
+        },
+
+
+
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/09/colonosseptiembresantafe2024.png",
+            "imagenPerfil": "../assets/images/co_santa_fe.png",
+            "altText": "Colonos",
+            "titulo": "Colonos Santa Fé 163, Septiembre 2024",
+            "fecha": "Septiembre 13, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/163_csf_sep_pdf"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/09/colonosseptiembreinterlomas2024.png",
+            "imagenPerfil": "../assets/images/co_interlomas.png",
+            "altText": "Colonos",
+            "titulo": "Colonos Interlomas 111, Septiembre 2024",
+            "fecha": "Septiembre 13, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/111_ci_sep_pdf"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/09/colonosseptiembrepolanco2024.png",
+            "imagenPerfil": "../assets/images/co_polanco.png",
+            "altText": "Colonos",
+            "titulo": "Colonos Polanco 110, Septiembre 2024",
+            "fecha": "Septiembre 13, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/110_cp_sep_pdf"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/09/colonosseptiembresatelite2024.png",
+            "imagenPerfil": "../assets/images/co_satelite.png",
+            "altText": "Colonos",
+            "titulo": "Colonos Satélite 89, Septiembre 2024",
+            "fecha": "Septiembre 13, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/89_cs_sep_pdf"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/08/colono_interlomas.jpg",
+            "imagenPerfil": "../assets/images/co_interlomas.png",
+            "altText": "Colonos",
+            "titulo": "Colonos Interlomas 110, Agosto 2024",
+            "fecha": "Agosto 2, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/110_ci_ago_pdf"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/08/colonos_santafe.jpg",
+            "imagenPerfil": "../assets/images/co_santa_fe.png",
+            "altText": "Colonos",
+            "titulo": "Colonos Santa Fe 162, Agosto 2024",
+            "fecha": "Agosto 2, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/162_csf_ago_pdf"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/08/colonos_polanco.jpg",
+            "imagenPerfil": "../assets/images/co_polanco.png",
+            "altText": "Colonos",
+            "titulo": "Colonos Polanco 109, Agosto 2024",
+            "fecha": "Agosto 2, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/109_cp_ago_pdf"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/08/colonos_satelite.jpg",
+            "imagenPerfil": "../assets/images/co_satelite.png",
+            "altText": "Colonos",
+            "titulo": "Colonos Satelite 88 Agosto 2024",
+            "fecha": "Agosto 2, 2024",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/88_cs_ago_pdf"
+        }
+    ],
+    "cumbre_1000": [
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/02/cumbre1000-1.png",
+            "imagenPerfil": "../assets/images/revista.png",
+            "altText": "Cumbre 1000",
+            "titulo": "Cumbre 1000, edición 2024",
+            "fecha": "Diciembre 15, 2023",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/lm_2024_digital_low"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/08/imagen_4.png",
+            "imagenPerfil": "../assets/images/revista.png",
+            "altText": "QUALITAS",
+            "titulo": "Cumbre 1000, edición 2024",
+            "fecha": "Diciembre 15, 2023",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/027_lm_2023_low"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/08/cumbre10002022.png",
+            "imagenPerfil": "../assets/images/revista.png",
+            "altText": "QUALITAS",
+            "titulo": "Mundo Ejecutivo Diciembre 2022",
+            "fecha": "Diciembre 22, 2022",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/026_lm_2022_2022_low"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/08/cumbre10002021.png",
+            "imagenPerfil": "../assets/images/revista.png",
+            "altText": "QUALITAS",
+            "titulo": "Mundo Ejecutivo 0025, Diciembre 2021",
+            "fecha": "Diciembre 27, 2021",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/025_rlm_dic21_low"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/08/cumbre10002019.png",
+            "imagenPerfil": "../assets/images/revista.png",
+            "altText": "QUALITAS",
+            "titulo": "Revista 1000 Empresas más importantes de México 2020",
+            "fecha": "Diciembre 7, 2020",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/023_rm_2020"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/08/cumbre1000marzo19.png",
+            "imagenPerfil": "../assets/images/revista.png",
+            "altText": "QUALITAS",
+            "titulo": "Las 1000 Empresas más Importantes de México",
+            "fecha": "Marzo 26, 2019",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/revistame_1000_2019"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/08/cumbre1000noviembre12018.png",
+            "imagenPerfil": "../assets/images/revista.png",
+            "altText": "QUALITAS",
+            "titulo": "Las 1000 Empresas más importantes de México 2018",
+            "fecha": "Noviembre 1, 2018",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/revista-mil-pagina-51"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/09/cumbre1000noviembre12017.png",
+            "imagenPerfil": "../assets/images/revista.png",
+            "altText": "CUMBRE 1000 2017",
+            "titulo": "La edición del 2017 de las 1000 empresas más importantes de México",
+            "fecha": "Diciembre, 2017",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/revista_20_digital_mil_2017_inc"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/09/cumbre1000noviembre12016.png",
+            "imagenPerfil": "../assets/images/revista.png",
+            "altText": "CUMBRE 1000 2016",
+            "titulo": "Las 1000 empresas más importantes de México 2016",
+            "fecha": "Diciembre, 2016",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/las1000_web"
+        }
+    ],
+    "cumbre_200": [
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/02/cumbre-200-1.png",
+            "imagenPerfil": "../assets/images/me.png",
+            "altText": "Cumbre 200",
+            "titulo": "Mujer Ejecutiva 216, Mayo Junio 2023",
+            "fecha": "Mayo | Junio 6, 2023",
+            "enlace_revista": "https://grupomundoejecutivo.com/cumbre200-2025/"
+        },
+        {
+            "imagenPortada": "https://cumbre1000.com/wp-content/uploads/2024/08/imagen_5.png",
+            "imagenPerfil": "../assets/images/me.png",
+            "altText": "QUALITAS",
+            "titulo": "Mujer Ejecutiva 216, Mayo Junio 2023",
+            "fecha": "Mayo | Junio 6, 2023",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/216_mue_may-jun."
+        }
+    ],
+    "ranking": [
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/03/50me.png",
+            "imagenPerfil": "../assets/images/me.png",
+            "altText": "50 Mujeres",
+            "titulo": "Mujer Ejecutiva 216, Mayo Junio 2023",
+            "fecha": "Mayo | Junio 6, 2023",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/mundo_ejecutivo_edomex_015_marzo_2025"
+        },
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/02/ranking-3.png",
+            "imagenPerfil": "../assets/images/me.png",
+            "altText": "14 CIO",
+            "titulo": "Mujer Ejecutiva 216, Mayo Junio 2023",
+            "fecha": "Mayo | Junio 6, 2023",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/544_me_may_ranking_13_cios"
+        },
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/02/ranking-4.png",
+            "imagenPerfil": "../assets/images/me.png",
+            "altText": "40 RETAIL",
+            "titulo": "Mujer Ejecutiva 216, Mayo Junio 2023",
+            "fecha": "Mayo | Junio 6, 2023",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/535_me_ago"
+        }
+    ],
+    "mundo_politico": [
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/02/mundopolitico-1.png",
+            "imagenPerfil": "../assets/images/me.png",
+            "altText": "Mundo Político",
+            "titulo": "Mujer Ejecutiva 216, Mayo Junio 2023",
+            "fecha": "Mayo | Junio 6, 2023",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/mex_2626_elpresupuesto_de_la_discordia"
+        }
+    ],
+    "101": [
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/02/mundo-1.png",
+            "imagenPerfil": "../assets/images/me.png",
+            "altText": "Mundo Ejecutivo",
+            "titulo": "Mujer Ejecutiva 216, Mayo Junio 2023",
+            "fecha": "Mayo | Junio 6, 2023",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/mundo_ejecutivo_edomex_14_febrero_2025"
+        }
+    ],
+    "1000_empresas_innovadoras": [
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/03/100empresas2025-1.png",
+            "imagenPerfil": "../assets/images/me.png",
+            "altText": "100 Empresas",
+            "titulo": "100 Empresas",
+            "fecha": "Marzo 7, 2025",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/mundo_ejecutivo_554_marzo_2025"
+        },
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/03/50me.png",
+            "imagenPerfil": "../assets/images/me.png",
+            "altText": "50 Mujeres",
+            "titulo": "Mujer Ejecutiva 216, Mayo Junio 2023",
+            "fecha": "Mayo | Junio 6, 2023",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/mundo_ejecutivo_edomex_015_marzo_2025"
+        },
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/02/mundo-2.png",
+            "imagenPerfil": "../assets/images/me.png",
+            "altText": "Mundo Ejecutivo",
+            "titulo": "Mujer Ejecutiva 216, Mayo Junio 2023",
+            "fecha": "Mayo | Junio 6, 2023",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/mundo_ejecutivo_usa_edici_n_especial_alta_"
+        }
+    ],
+    "cardinal": [
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/02/cardinal-1.png",
+            "imagenPerfil": "../assets/images/me.png",
+            "altText": "Cardinal",
+            "titulo": "Mujer Ejecutiva 216, Mayo Junio 2023",
+            "fecha": "Mayo | Junio 6, 2023",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/rc_19_ene2020_low"
+        }
+    ],
+    "firstclass": [
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/02/firstclass-1.png",
+            "imagenPerfil": "../assets/images/me.png",
+            "altText": "First Class",
+            "titulo": "Mujer Ejecutiva 216, Mayo Junio 2023",
+            "fecha": "Mayo | Junio 6, 2023",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/fc_dic_2018-2019_15_pag"
+        }
+    ],
+    "habitat": [
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/02/habitat-1.png",
+            "imagenPerfil": "../assets/images/me.png",
+            "altText": "Habitat",
+            "titulo": "Mujer Ejecutiva 216, Mayo Junio 2023",
+            "fecha": "Mayo | Junio 6, 2023",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/habitat_69dem"
+        }
+    ],
+    "express": [
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/02/express-1.png",
+            "imagenPerfil": "../assets/images/me.png",
+            "altText": "Express",
+            "titulo": "Mujer Ejecutiva 216, Mayo Junio 2023",
+            "fecha": "Mayo | Junio 6, 2023",
+            "enlace_revista": "https://issuu.com/mundoejecutivo/docs/2541_mex_24sep"
+        }
+    ],
+    "especialme": [
+        {
+            "imagenPortada": "https://mundoejecutivolatam.com/wp-content/uploads/2025/03/50me.png",
+            "imagenPerfil": "../assets/images/me.png",
+            "altText": "Mujer Ejecutiva",
+            "titulo": "Mujer Ejecutiva 015 Marzo 2025",
+            "fecha": "Marzo 13, 2025",
+            "enlace_revista": "https://issuu.com/mundoeje/docs/mundo_ejecutivo_edomex_015_marzo_2025"
+        }
+    ]
+}
