@@ -1,0 +1,306 @@
+{
+  "tarjetas": [
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "REGISTRO"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "No encuentro el formulario de registro"
+      },
+      "Enlace": {
+        "href": "../pages/registro.html"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "EVENTO"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "No encuentro la ubicación"
+      },
+      "Enlace": {
+        "href": "https://www.google.com/maps/place/El+Cantoral/@19.3619866,-99.1711669,17z/data=!3m1!4b1!4m6!3m5!1s0x85d1ffbfed756dc9:0x248b821f6153069b!8m2!3d19.3619816!4d-99.166296!16s%2Fg%2F1ygbbfvq7?authuser=0&entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "ERROR"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "Me aparece el error 100"
+      },
+      "Enlace": {
+        "href": "../pages/errores.html#error_100"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "GENERALES"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "¿Qué es CUMBRE 200?"
+      },
+      "Enlace": {
+        "href": "../pages/generales.html#queescumbre200"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "REGISTRO"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "El formulario ha cambiado"
+      },
+      "Enlace": {
+        "href": "../pages/ayuda.html#formulariocambio"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "EVENTO"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "No me aparece el horario"
+      },
+      "Enlace": {
+        "href": "../index.html#itinerario"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "ERROR"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "Me aparece el error 200"
+      },
+      "Enlace": {
+        "href": "../pages/errores.html#error_200"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "GENERALES"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "¿Qué es Mundo Ejecutivo?"
+      },
+      "Enlace": {
+        "href": "../pages/generales.html#queesmundoejecutivo"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "REGISTRO"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "¿A qué correo puedo comunicarme?"
+      },
+      "Enlace": {
+        "href": "../pages/ayuda.html#correo"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "EVENTO"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "¿Cuál es la ubicación del evento?"
+      },
+      "Enlace": {
+        "href": "https://www.google.com/maps/place/El+Cantoral/@19.3619866,-99.1711669,17z/data=!3m1!4b1!4m6!3m5!1s0x85d1ffbfed756dc9:0x248b821f6153069b!8m2!3d19.3619816!4d-99.166296!16s%2Fg%2F1ygbbfvq7?authuser=0&entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "ERROR"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "Me aparece el error 300"
+      },
+      "Enlace": {
+        "href": "../pages/errores.html#error_300"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "GENERALES"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "¿Dónde está ubicado Mundo Ejecutivo?"
+      },
+      "Enlace": {
+        "href": "https://www.google.com/maps/place/Mundo+Ejecutivo/@19.432328,-99.1690069,17z/data=!3m1!4b1!4m6!3m5!1s0x85d1f8cab75f44c3:0x6e71c986a03adbcd!8m2!3d19.432323!4d-99.166432!16s%2Fg%2F1tg50s4p?authuser=0&entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "REGISTRO"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "¿Cuáles son los horarios de atención?"
+      },
+      "Enlace": {
+        "href": "../pages/ayuda.html#horariosdeatencion"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "EVENTO"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "¿Cómo puedo agendar el evento en mi calendario?"
+      },
+      "Enlace": {
+        "href": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=CUMBRE+200&details=Recordatorio+para+agendar&dates=20250327T143000Z/20250327T210000Z&location=Puente+Xoco+s%2Fn-Puerta+A%2C+Xoco%2C+Benito+Ju%C3%A1rez%2C+03330+Ciudad+de+M%C3%A9xico%2C+CDMX"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "ERROR"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "Me aparece el error 400"
+      },
+      "Enlace": {
+        "href": "../pages/errores.html#error_400"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "GENERALES"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "¿Cómo comparto la información del evento?"
+      },
+      "Enlace": {
+        "href": "../index.html"
+      }
+    },
+
+
+
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "REGISTRO"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "¿Hasta que fecha puedo registrarme?"
+      },
+      "Enlace": {
+        "href": "../pages/ayuda.html#hastaquefecha"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "EVENTO"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "¿Cuál es la entrada por la que debo de acceder?"
+      },
+      "Enlace": {
+        "href": "../pages/evento.html#entrada"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "ERROR"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "Ya no me aparece el formulario de registro"
+      },
+      "Enlace": {
+        "href": "../pages/errores.html#error_500"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "GENERALES"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "¿Dónde puedo ver la transmisión del evento?"
+      },
+      "Enlace": {
+        "href": "../pages/generales.html#transmision"
+      }
+    }
+  ],
+
+  "panelistas": [
+    {
+      "nombre": "Arlete Rodríguez Martínez",
+      "cargo": "CEO DE A.R. SOLUCIONES Y FUNDADORA DE EECA DELIVERY",
+      "imagen": "assets/images/panelistas/arleterodriguez.webp",
+      "href": "pages/panelistas/arleterodriguez.html"
+    },
+    {
+      "nombre": "Liliana Jáquez Borrego",
+      "cargo": "SUBDIRECTORA DE ATENCIÓN A OFICINAS, ZONA DE OCCIDENTE Y BAJÍO. QUÁLITAS COMPAÑÍA DE SEGUROS.",
+      "imagen": "assets/images/panelistas/liliana2.webp",
+      "href": "pages/panelistas/lilianajaquez.html"
+    },
+    {
+      "nombre": "Nancy Martínez",
+      "cargo": "CEO de Grupo LIVE.",
+      "imagen": "assets/images/panelistas/nancy.webp",
+      "href": "pages/panelistas/nancymartinez.html"
+    },
+    {
+      "nombre": "Moisés Saltiel",
+      "cargo": "Managing Partner.",
+      "imagen": "assets/images/panelistas/moises.webp",
+      "href": "pages/panelistas/moisessaltiel.html"
+    },
+    {
+      "nombre": "Alejandra Magaña",
+      "cargo": "Directora Ejecutiva Digital.",
+      "imagen": "assets/images/panelistas/chubb.webp",
+      "href": "pages/panelistas/alejandra.html"
+    },
+    {
+      "nombre": "Francisco Valdivia",
+      "cargo": "Director General para Visa México.",
+      "imagen": "assets/images/panelistas/valdivia.webp",
+      "href": "pages/panelistas/valdivia.html"
+    }
+  ]
+}
