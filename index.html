@@ -115,7 +115,7 @@
 </head>
 <body class="body" onload="initMap()">
 
-    <div id="preload-container">
+     <div id="preload-container">
         <div class="contenedor-universal">
             <img src="assets/images/logogeneral.webp" alt="Cargando..." data-aos="zoom-in" data-aos-duration="2700">
         </div>
@@ -239,7 +239,10 @@
             <div class="contenedor-universal">
                 <img src="assets/images/franjas.webp" alt="AGENDA" title="AGENDA" class="imagen-5" loading="lazy">
             </div>
-            <div class="contenedor-universal padding-2">
+
+            <h2 class="h2-3" style="margin-top: 50px; width: 100%; text-align: center;">¿Qué te pareció el evento?</h2>
+            <p class="parrafo-1" style="width: 100%; text-align: center; color: #ffffff;">- - - Queremos escucharte, cuéntanos tu opinión - - -</p>
+            <!--<div class="contenedor-universal padding-2">
                 <div class="contenedor-universal-2-parte-1 ajuste-contenedor-itinerario-1">
                     <div class="agenda">
                         <div class="agenda-borde" style="position: relative;">
@@ -253,7 +256,73 @@
 
                     <a href="pages/transmision.html" class="boton-1">¡MIRA LA TRANSMISIÓN!</a>
                 </div>
+            </div>-->
+
+            <div class="agenda-2" style="margin: 50px 0px;">
+                <div class="agenda-borde" style="position: relative; grid-gap: 25px 25px;">
+                    <div class="contenedor-universal">
+                        <img src="../assets/images/logogeneral-2.webp" alt="CUMBRE 200" title="CUMBRE 200" class="imagen-6">
+                    </div>
+                    <form action="https://php.embluemail.com/Integraciones/form_events/emblue_events.php" method="POST" class="formulario">
+                        <div class="contenedor-universal">
+                            <input type="text" name="nombre" class="input-1" placeholder="NOMBRE COMPLETO" style="width: 100%;" required>
+                            <input type="email" name="email" class="input-1" placeholder="CORREO ELECTRÓNICO" style="width: 100%;" required>
+
+                            <select name="hizo_networking" class="input-3" required>
+                                <option value="" disabled selected>¿HIZO NETWORKING?</option>
+                                <option value="1">Sí</option>
+                                <option value="2">No</option>
+                            </select>
+                            <select name="volverias_a_participar" class="input-3" required>
+                                <option value="" disabled selected>¿VOLVERÍAS A PARTICIPAR?</option>
+                                <option value="si">Sí</option>
+                                <option value="no">No</option>
+                                <option value="probablemente_si">Probablemente sí</option>
+                                <option value="probablemente_no">Probablemente no</option>
+                            </select>
+
+                            <select name="que_calificacion_le_pondria_a_las_conferencias" class="input-1" required>
+                            <option value="" disabled selected>¿QUÉ CALIFICACIÓN LE PONDRÍAS A LAS CONFERENCIAS?</option>
+                              <option value="1">★★★★★</option>
+                              <option value="2">★★★★</option>
+                              <option value="3">★★★</option>
+                              <option value="4">★★</option>
+                              <option value="5">★</option>
+                            </select>
+                            <input list="sectores" name="cual_es_el_sector_de_su_interes" id="sector" class="input-2" placeholder="¿CUÁL ES EL SECTOR DE SU INTERÉS?" required>
+                            <datalist id="sectores">
+                                <option value="Automotriz">
+                                <option value="Financiero">
+                                <option value="Tecnología">
+                                <option value="Salud">
+                                <option value="Educación">
+                                <option value="Logística">
+                                <option value="Aseguradora">
+                                <option value="Comercio">
+                                <option value="Turismo">
+                            </datalist>
+
+                            <input type="text" name="que_conferencia_le_intereso_mas" class="input-2" placeholder="¿QUÉ CONFERENCIA LE INTERESÓ MÁS?">
+                            <input type="text" name="que_te_parecio_el_evento" class="input-1" placeholder="¿QUÉ TE PARECIÓ EL EVENTO?" required>
+
+                            <input type="text" name="como_podemos_mejorarla_calificacion" class="input-1" placeholder="¿CÓMO PODEMOS MEJORAR LA CALIFICACIÓN?">
+                            <input type="text" name="como_se_entero_del_evento" class="input-2" placeholder="¿CÓMO SE ENTERÓ DEL EVENTO?" required>
+
+                            <input type="text" name="usted_es" class="input-2" placeholder="¿USTED ES?">
+                            <textarea name="¿Qué opinas de las experiencias alrededor del evento? si tienes algún otro comentario, te leemos." class="input-1" placeholder="¿QUÉ OPINAS DE LAS EXPERIENCIAS ALREDEDOR DEL EVENTO?" rows="6" style="resize: none;" required></textarea>
+                        </div>
+
+                        <div class="contenedor-universal" style="margin-top: 20px; margin-bottom: 25px;">
+                            <input type="submit" class="boton-1" value="ENVIAR" name="Enviar">
+                        </div>
+                        <input type="hidden" placeholder="encuesta_cumbre_200_2025" value="encuesta_cumbre_200_2025" name="evento"/>
+                        <input type="hidden" name="token" value="25a91aa11d0443c1ace59204a43c71d8"/>
+                        <input type="hidden" name="redir" value="https://www.grupomundoejecutivo.com/cumbre200-2025/pages/gracias.html"/>
+                    </form>
+
+                </div>
             </div>
+
             <div class="contenedor-universal">
                 <img src="assets/images/franjas.webp" alt="ITINERARIO" title="ITINERARIO" class="imagen-5" style="transform: rotate(0deg);" loading="lazy">
             </div>
@@ -730,12 +799,12 @@
 
                     <div class="contenedor-universal" style="z-index: 2;">
                         <a href="pages/encuesta.html" class="boton-1">CONTESTAR ENCUESTA</a>
-                    </div
+                    </div>
                 </div>
             </div>
             
             <div class="contenedor-universal" style="margin-top: 25px; z-index: 2;">
-                <img src="assets/images/franjas.webp" alt="ITINERARIO" title="ITINERARIO" class="imagen-6" loading="lazy">
+                <img src="assets/images/franjas.webp" alt="ITINERARIO" title="ITINERARIO" class="imagen-6" loading="lazy" style="bottom: 0px;">
             </div>
         </section>
 
